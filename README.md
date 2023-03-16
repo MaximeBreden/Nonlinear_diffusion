@@ -1,4 +1,4 @@
-This repository contains the Matlab codes used for the paper "Computer-assisted proofs for some nonlinear diffusion problems" by M. Breden. 
+This repository contains the Matlab codes used for the paper ["Computer-assisted proofs for some nonlinear diffusion problems"](https://arxiv.org/abs/2102.01501) by M. Breden. 
 
 All the computer-assisted parts of the proofs discussed in the paper can be reproduced by running script_PM.m (Section 2 of the paper), 
 script_SKT.m (Section 3 of the paper) and script_NP.m (Section 4 of the paper). 
